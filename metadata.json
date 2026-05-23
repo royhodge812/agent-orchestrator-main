@@ -1,0 +1,6 @@
+{
+  "name": "Git Agent Orchestration Dashboard",
+  "description": "An interactive full-stack management dashboard for orchestrating AI developer agents in a simulated Git repository. It visualizes agent workloads, real-time CI/CD pipelines, pull request diffs, code reviews, and commit history trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
